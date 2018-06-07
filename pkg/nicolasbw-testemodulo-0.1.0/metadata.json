@@ -2,11 +2,11 @@
   "name": "nicolasbw-testemodulo",
   "version": "0.1.0",
   "author": "nicolasbw",
-  "summary": null,
+  "summary": "Modulo teste",
   "license": "Apache-2.0",
-  "source": "",
-  "project_page": null,
-  "issues_url": null,
+  "source": "https://github.com/nicolasbw/teste-modulo.git",
+  "project_page": "https://github.com/nicolasbw/teste-modulo",
+  "issues_url": "https://github.com/nicolasbw/teste-modulo/issues",
   "dependencies": [
     {
       "name": "puppetlabs-stdlib",

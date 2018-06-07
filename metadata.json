@@ -2,9 +2,9 @@
   "name": "nicolasbw-testemodulo",
   "version": "0.1.0",
   "author": "nicolasbw",
-  "summary": null,
+  "summary": "Modulo teste",
   "license": "Apache-2.0",
-  "source": "",
+  "source": "https://github.com/nicolasbw/teste-modulo.git",
   "project_page": null,
   "issues_url": null,
   "dependencies": [
